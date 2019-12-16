@@ -20,6 +20,12 @@ Through the ages, map styles have changed immensely. But they can be beautifully
 
 ![leo_belgicus](imgs/belgium_novissima_janszoon_visscher_1611.jpeg)
 
-## Mapmaking/Compass Drawing Techniques
+## Mapmaking Drawing Techniques
 
-*in progress*
+
+### Trees
+
+To draw some trees for forests, fun, etc, here are a few simple examples. 
+
+![trees](templates/trees-for-maps.jpg)
+
