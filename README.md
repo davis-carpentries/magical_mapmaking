@@ -36,3 +36,17 @@ For coast lines, check out this [nice set of drawings](http://www.fantasticmaps.
 ![](templates/coastlines.jpg)
 
 
+## Invisible Ink
+
+Lots of fun options here, most require some sort of acid or heat in order to make the message viewable. Writing with a cottonswab is generally a good option. To make the ink show, each should be applied and allowed to completely dry.
+
+**Here's a list of possible "inks" you can use and the *reveal* required:**
+
+ - Fresh lemon juice (*heat*)
+ - Milk (*heat*)
+ - 1/4 C Baking soda + 1/4 C water (*grape juice*)
+ 
+**Shading**
+
+Take 2 pieces of paper and stack them up. Write on the top piece, then remove it. To reveal message on second piece, lightly shade over the bottom piece with a pencil.
+
