@@ -29,3 +29,10 @@ To draw some trees for forests, fun, etc, here are a few simple examples.
 
 ![trees](templates/trees-for-maps.jpg)
 
+### Coastlines
+
+For coast lines, check out this [nice set of drawings](http://www.fantasticmaps.com/2015/10/4-coast-styles-for-mapmaking/#more-2467) from Jonathan Roberts.
+
+![](templates/coastlines.jpg)
+
+
