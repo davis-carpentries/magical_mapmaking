@@ -2,6 +2,13 @@
 
 This is a just-for-fun repository of random templates of compasses, maps, and mapmaking ideas that folks can use for creative purposes. 
 
+## Magical Maps
+
+So many wonderful examples from things like the Marauder's Map in Harry Potter, to Middle Earth maps by Tolkien (see below). What sort of magical/mythical map would you make?
+
+![](imgs/middle_earth_map_by_kilbeth.jpg)
+
+
 ## Cartography & Old Maps
 
 Cartography is the making of a map, that defines or represents the world around them in some shape or fashion. For a longer explanation, check out [this page on Wikipedia](https://en.wikipedia.org/wiki/History_of_cartography). 
